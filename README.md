@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manmohanboyina&show_icons=true&locale=en" alt="manmohanboyina" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ManmohanBoyina123)](https://leetcode.com/ManmohanBoyina123)
-![](https://leetcard.manmohanboyina123.cool/manmophanboyina123?ext=activity)
+![](https://leetcard.jacoblin.cool/ManmohanBoyina123?ext=activity)
