@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manmohanboyina1999@gmail.com**
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1D-g4R62mSuZC85uOVnSxgou3sQ8_VOI4/view?usp=drive_link)
+- 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1D-g4R62mSuZC85uOVnSxgou3sQ8_VOI4/view?usp=drive_link)
 
 - ⚡ Fun fact **🍳 Cooking is my creative outlet**
 
