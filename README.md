@@ -36,4 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manmohanboyina&show_icons=true&locale=en" alt="manmohanboyina" /></p>
 
+![](https://leetcard.jacoblin.cool/ManmohanBoyina123?ext=heatmap)
+
 ![](https://leetcard.jacoblin.cool/ManmohanBoyina123?ext=activity)
