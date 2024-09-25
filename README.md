@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1D-g4R62mSuZC85uOVnSxgou3sQ8_VOI4/view?usp=drive_link)
 
+- 👨‍💻 All of my projects are available in my [**Portfolio**](https://manmohanboyina.netlify.app/) 
+
 - ⚡ Fun fact **🍳 Cooking is my creative outlet**
 
 <h3 align="left">Connect with me:</h3>
