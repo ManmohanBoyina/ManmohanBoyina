@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **software development, particularly in full-stack web development, data structures, algorithms, and machine learning. I'm always happy to discuss project ideas, coding challenges, and technology trends!**
 
-- 📫 How to reach me **manmohanboyina1999@gmail.com**
+- 📫 How to reach me **boyinamanmohan1999@gmail.com**
 
 - 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1D-g4R62mSuZC85uOVnSxgou3sQ8_VOI4/view?usp=drive_link)
 
