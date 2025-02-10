@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **boyinamanmohan1999@gmail.com**
 
-- 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1D-g4R62mSuZC85uOVnSxgou3sQ8_VOI4/view?usp=drive_link)
+- 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1LS0wYc0tT3sLhwTtNtXK13ZQv0pbBnBN/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available in my [**Portfolio**](https://manmohanboyina.netlify.app/) 
 
